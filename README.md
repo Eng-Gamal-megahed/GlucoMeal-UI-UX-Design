@@ -49,4 +49,4 @@ This project focuses on **UI/UX design** using **Figma & FigJam**. It includes *
 ## 🤝 How to Contribute  
 1. **Clone the repository**  
    ```sh
-   git clone https://github.com/your-username/project-name.git
+   [git clone https://github.com/your-username/project-name.git](https://github.com/Eng-Gamal-megahed/Healthy-Meals-UI-UX-Design.git)

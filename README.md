@@ -32,8 +32,8 @@ This project focuses on **UI/UX design** using **Figma & FigJam**. It includes *
 ✅ **Wireframes & UI Style Guide** (Figma)
 
 ## 🔗 Important Links  
-- **[📌 FigJam Board](#)** – Project planning  
-- **[📌 Figma Design](#)** – Wireframes & UI designs  
+- **[📌 FigJam Board](https://www.figma.com/board/BiEmmS1jpL2MwG8nOiQls7/ALpha-Team?node-id=50-446&t=2vOoAVoOQWtK9AMn-1)** – Project planning  
+- **[📌 Figma Design](https://www.figma.com/design/wW2F0qsawHy9YQIwsPF0sA/ALhpa_Project?node-id=0-1&t=ICAbvsjPUT2axN4o-1)** – Wireframes & UI designs  
 - **[📌 BMC & SWOT PDFs](#)** – Business strategy  
 
 ## 🤝 How to Contribute  

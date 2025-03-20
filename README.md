@@ -5,7 +5,7 @@ This project focuses on **UI/UX design** using **Figma & FigJam**. It includes *
 
 ## 👥 Team Members  
 - **👑 Gamal Megahed** *(Team Leader)* – Project Planning, 1 Persona, Features, 5 Use Cases, Start Page, Sign-in Page, Register Page, Forgot Password Page, Healthy Restaurants Page, GitHub Repository & README  
-- **Norhan Adel** – 2 Personas, Features, Home Page, Profile Page  
+- **Norhan Adel** – 2 Personas, Features, Home Page, Profile Page, Meal Planning & Recommendations Page  
 - **Ahmed Salah** – SWOT Analysis, BMC, Blood Sugar Logging & Tracking Page, Community Engagement & Sharing Page  
 - **Abdulkhaleq Mahmoud** – Regular Form, Doctor Form, Interview Questions  
 - **Yasmin Hamada** – Use Case Documentation (Steps)  

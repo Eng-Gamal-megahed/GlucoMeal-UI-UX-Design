@@ -9,30 +9,20 @@ This project focuses on **UI/UX design** using **Figma & FigJam**. It includes *
 - **PDF Reports** → Business Model Canvas (BMC) & SWOT Analysis  
 
 ## 📂 Repository Structure  
-📂 **docs/**  
-&nbsp;&nbsp;&nbsp;Documentation (PDFs, reports, research findings)  
 📂 **assets/**  
 &nbsp;&nbsp;&nbsp;Images, logos, supporting visuals  
-📂 **planning/**  
+📂 **Planning/**  
 &nbsp;&nbsp;&nbsp;FigJam project planning files  
-📂 **business-model/**  
+📂 **Business Model/**  
 &nbsp;&nbsp;&nbsp;BMC & SWOT PDFs  
-📂 **research/**  
+📂 **Research/**  
 &nbsp;&nbsp;&nbsp;User personas (Figma), surveys, interview findings  
-📂 **user-flow/**  
+📂 **User Flows/**  
 &nbsp;&nbsp;&nbsp;FigJam user flow diagrams  
-📂 **wireframes/**  
+📂 **Wireframes/**  
 &nbsp;&nbsp;&nbsp;Figma wireframes  
 📂 **UI-style-guide/**  
 &nbsp;&nbsp;&nbsp;Colors, typography, components, design system  
-📜 **README.md**  
-&nbsp;&nbsp;&nbsp;Project overview & setup  
-📜 **CONTRIBUTING.md**  
-&nbsp;&nbsp;&nbsp;Collaboration guidelines  
-📜 **.gitignore**  
-&nbsp;&nbsp;&nbsp;Ignore unnecessary files  
-📜 **LICENSE.md**  
-&nbsp;&nbsp;&nbsp;License details (if needed)
 
 ## 📈 Project Deliverables  
 ✅ **Project Planning** (FigJam)  

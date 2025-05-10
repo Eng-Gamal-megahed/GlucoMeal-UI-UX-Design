@@ -4,11 +4,12 @@
 This project focuses on **UI/UX design** using **Figma & FigJam**. It includes **user research, wireframing, and prototyping** to create an intuitive and user-friendly experience.  
 
 ## 👥 Team Members  
-- **👑 Gamal Megahed** *(Team Leader)* – Project Planning, 1 Persona, Features, 5 Use Cases, Start Page, Sign-in Page, Register Page, Forgot Password Page, Healthy Restaurants Page, GitHub Repository & README  
-- **Norhan Adel** – 2 Personas, Features, Home Page, Profile Page, Meal Planning & Recommendations Page  
-- **Ahmed Salah** – SWOT Analysis, BMC, Blood Sugar Logging & Tracking Page, Community Engagement & Sharing Page  
-- **Abdulkhaleq Mahmoud** – Regular Form, Doctor Form, Interview Questions  
-- **Yasmin Hamada** – Use Case Documentation (Steps)  
+- **👑 Gamal Megahed** *(Team Leader)* – Project Planning, 1 Persona, Features, 5 Use Cases, Start Page, Sign-in Page, Register Page, Forgot Password Page , Change Password Page, Healthy Restaurants Flow Pages,
+-  , Community Share Flow Pages , Meal Recomendation Pages, Notifications Pages, System Design, Prototypin, Figma File Arrangment GitHub Repository & README  
+- **Norhan Adel** – 2 Personas, Features, Home Page, Fill Data Flow Pages, Menue Page, Profile Page, Wearable Devices Page, Prototyping, Some Components  
+- **Ahmed Salah** – SWOT Analysis, BMC, Blood Sugar Logging & Tracking Page, Community Engagement & Sharing Page (WireFrame), Icons, Gathering Feedback, Presentation
+- **Abdulkhaleq Mahmoud** – Regular Form, Doctor Form, Interview Questions, Community Engagement & Sharing Page (Meduim Fadility)
+- **Yasmin Hamada** – Use Case Documentation (Steps), Meal Planning (Removed), Recommindations (Meduim Fadility)  
 
 ### ✅ **Reviews & Contributions**  
 - Regular Form, Doctor Form, and Interview Questions reviewed by **Gamal, Norhan, and Ahmed**  
@@ -46,6 +47,7 @@ This project focuses on **UI/UX design** using **Figma & FigJam**. It includes *
 ## 🔗 Important Links  
 - **[📌 FigJam Board](https://www.figma.com/board/BiEmmS1jpL2MwG8nOiQls7/ALpha-Team?node-id=50-446&t=2vOoAVoOQWtK9AMn-1)** – Project planning  
 - **[📌 Figma Design](https://www.figma.com/design/wW2F0qsawHy9YQIwsPF0sA/ALhpa_Project?node-id=0-1&t=ICAbvsjPUT2axN4o-1)** – Wireframes & UI designs  
+- **[📌 Presentation Folder](https://drive.google.com/drive/folders/131zP-AICtj63Oz4jDsElFB52dd2hlTmj)** – Final presentation slides  
 
 ## 🤝 How to Contribute  
 1. **Clone the repository**  

@@ -105,17 +105,6 @@ GlucoMeal-UI-UX-Design/
 
 ---
 
-### ✅ Deliverables
-
-* [x] FigJam Project Plan
-* [x] SWOT & Business Model Canvas (PDF)
-* [x] User Personas (Figma)
-* [x] User Flow Diagrams (FigJam)
-* [x] Wireframes & UI Style Guide (Figma)
-* [ ] High-Fidelity Prototype (Figma)
-
----
-
 ### 🔗 Important Links
 
 * **Project Plan (FigJam):** [https://www.figma.com/board/BiEmmS1jpL2MwG8nOiQls7/ALpha-Team?node-id=50-446](https://www.figma.com/board/BiEmmS1jpL2MwG8nOiQls7/ALpha-Team?node-id=50-446)

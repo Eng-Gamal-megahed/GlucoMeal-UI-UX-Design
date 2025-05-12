@@ -11,77 +11,96 @@
 
 ---
 
-### 👥 Team & Responsibilities
+### 👥 Team & Leadership Roles
 
-| Team Member                | Role / Deliverables         | Status |
-| -------------------------- | --------------------------- | ------ |
-| **Gamal Megahed (Leader)** | - Project planning (FigJam) |        |
+**Gamal Megahed (Project Leader)**
 
-* Persona #1
+* Project planning in FigJam
+* Create Persona #1
 * Define core features
-* 5 Use cases
-* Start, Sign In, Register, Forgot/Change Password pages
-* Healthy Restaurants & Community Share flows
-* Meal Recommendations & Notifications screens
-* System design & Figma file organization
-* GitHub repo & README                                     | ✅ Done |
-  \| **Norhan Adel (UI & Prototyping Lead)**             | - 2 Personas
-* Features
-* Home Page
-* Fill Data Flow Pages
-* Menue Page
-* Profile Page
-* Wearable Devices Page
-* Prototyping
-* Some Components                                          | ✅ Done |
-  \| **Ahmed Salah (Analysis & Reporting Lead)**             | - SWOT Analysis
-* BMC
-* Blood Sugar Logging & Tracking Page
-* Community Engagement & Sharing Page (WireFrame)
-* Icons
-* Gathering Feedback
-* Presentation                                                      | ✅ Done |
-  \| **Abdulkhaleq Mahmoud (Research & Forms Lead)**     | - Regular Form
-* Doctor Form
-* Interview Questions
-* Community Engagement & Sharing Page (Meduim Fadility)            | ✅ Done |
-  \| **Yasmin Hamada (Documentation & Recommendations Lead)**           | - Use Case Documentation (Steps)
-* Meal Planning (Removed)
-* Recommindations (Meduim Fadility)                                 | ✅ Done |
+* Document 5 use cases
+* Design Start Page
+* Design Sign In Page
+* Design Register Page
+* Design Forgot Password Page
+* Design Change Password Page
+* Map Healthy Restaurants flow
+* Map Community Share flow
+* Design Meal Recommendation Page
+* Design Notifications Page
+* System design and architecture
+* Organize Figma file structure
+* Set up GitHub repository and README
 
----
+**Norhan Adel (UI & Prototyping Lead)**
+
+* Create Persona #2
+* Create Persona #3
+* Refine feature list
+* Design Home Page
+* Design Data Entry Page
+* Design Fill Data Flow Pages
+* Design Menu Page
+* Design Profile Page
+* Design Wearable Devices Integration Page
+* Build reusable UI components
+* Develop interactive prototypes
+
+**Ahmed Salah (Analysis & Reporting Lead)**
+
+* Conduct SWOT analysis
+* Develop Business Model Canvas (PDF)
+* Design Blood Sugar Logging Page
+* Design Blood Sugar Tracking Page
+* Wireframe Community Engagement Page
+* Create icon set
+* Collect and analyze user feedback
+* Prepare presentation slides
+
+**Abdulkhaleq Mahmoud (Research & Forms Lead)**
+
+* Design Patient Intake Form (Regular)
+* Design Doctor Form
+* Draft interview questions script
+* Develop medium-fidelity Community Engagement Page
+
+**Yasmin Hamada (Documentation & Recommendations Lead)**
+
+* Write detailed use case documentation
+* Create meal planning templates (removed)
+* Prototype Recommendations Flow (medium fidelity)
 
 ---
 
 ### 📋 Reviews & Contributions
 
-* **Regular Form, Doctor Form, and Interview Questions** reviewed by **Gamal, Norhan, and Ahmed**
-* **Personas and Features** reviewed by **Ahmed and Abdulkhaleq**
-* **SWOT & BMC** reviewed by **Ahmed, Gamal, and Norhan**
+* **Regular Form, Doctor Form, Interview Questions** reviewed by Gamal, Norhan, Ahmed
+* **Personas & Features** reviewed by Ahmed, Abdulkhaleq
+* **SWOT & BMC** reviewed by Ahmed, Gamal, Norhan
 
 ---
 
 ### 🛠 Tools & Files
 
-* **FigJam:** Project plan & user flows → `/Planning/`
+* **FigJam:** Project planning & user flows → `/Planning/`
 * **Figma:** Personas, wireframes, UI-style guide → `/Research/`, `/Wireframes/`, `/UI-style-guide/`
-* **PDF Reports:** BMC & SWOT → `/Business Model/`
+* **PDF Reports:** SWOT & BMC → `/Business Model/`
 * **Assets:** Icons, images, logos → `/assets/`
 
 ---
 
 ### 📂 Repository Structure
 
-```
+```plaintext
 GlucoMeal-UI-UX-Design/
-├─ assets/               # Logos, images, icons
-├─ Planning/             # FigJam project planning files
-├─ Business Model/       # BMC & SWOT PDFs
-├─ Research/             # Personas, surveys, interview data
-├─ User Flows/           # FigJam flow diagrams
-├─ Wireframes/           # Figma wireframes
-├─ UI-style-guide/       # Colors, typography, components
-└─ README.md             # This document
+├─ assets/
+├─ Planning/
+├─ Business Model/
+├─ Research/
+├─ User Flows/
+├─ Wireframes/
+├─ UI-style-guide/
+└─ README.md
 ```
 
 ---
@@ -89,7 +108,7 @@ GlucoMeal-UI-UX-Design/
 ### ✅ Deliverables
 
 * [x] FigJam Project Plan
-* [x] Business Model Canvas & SWOT Analysis (PDF)
+* [x] SWOT & Business Model Canvas (PDF)
 * [x] User Personas (Figma)
 * [x] User Flow Diagrams (FigJam)
 * [x] Wireframes & UI Style Guide (Figma)
@@ -99,23 +118,19 @@ GlucoMeal-UI-UX-Design/
 
 ### 🔗 Important Links
 
-* **Project Plan (FigJam):** [Open Board](https://www.figma.com/board/BiEmmS1jpL2MwG8nOiQls7/ALpha-Team?node-id=50-446)
-* **Design Files (Figma):** [Open Design](https://www.figma.com/design/wW2F0qsawHy9YQIwsPF0sA/ALhpa_Project?node-id=0-1)
-* **Presentation Slides:** [Drive Folder](https://drive.google.com/drive/folders/131zP-AICtj63Oz4jDsElFB52dd2hlTmj)
+* **Project Plan (FigJam):** [https://www.figma.com/board/BiEmmS1jpL2MwG8nOiQls7/ALpha-Team?node-id=50-446](https://www.figma.com/board/BiEmmS1jpL2MwG8nOiQls7/ALpha-Team?node-id=50-446)
+* **Design Files (Figma):** [https://www.figma.com/design/wW2F0qsawHy9YQIwsPF0sA/ALhpa\_Project?node-id=0-1](https://www.figma.com/design/wW2F0qsawHy9YQIwsPF0sA/ALhpa_Project?node-id=0-1)
+* **Presentation Slides:** [https://drive.google.com/drive/folders/131zP-AICtj63Oz4jDsElFB52dd2hlTmj](https://drive.google.com/drive/folders/131zP-AICtj63Oz4jDsElFB52dd2hlTmj)
 
 ---
 
 ### 🤝 Contributing
 
-1. **Fork & clone:**
-
-   ```bash
-   git clone https://github.com/Eng-Gamal-megahed/GlucoMeal-UI-UX-Design.git
-   ```
-2. **Follow folder structure** and naming conventions.
-3. **Submit PR** with detailed description & screenshots.
-4. **Review & merge** by team leads.
+1. Fork & clone the repo
+2. Follow folder naming & structure
+3. Submit pull request with description & screenshots
+4. Team leads will review & merge
 
 ---
 
-*For questions or feedback, reach out to Gamal Megahed at @eng-gamal-megahed on GitHub.*
+*For questions or feedback, contact Gamal Megahed (GitHub: eng-gamal-megahed).*

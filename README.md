@@ -13,7 +13,7 @@
 
 ### 👥 Team & Leadership Roles
 
-**Gamal Megahed (Project Leader)**
+**👑 Gamal Megahed (Project Leader)**
 
 * Project planning in FigJam
 * Create Persona #1
@@ -32,7 +32,7 @@
 * Organize Figma file structure
 * Set up GitHub repository and README
 
-**Norhan Adel (UI & Prototyping Lead)**
+**Norhan Adel**
 
 * Create Persona #2
 * Create Persona #3
@@ -46,7 +46,7 @@
 * Build reusable UI components
 * Develop interactive prototypes
 
-**Ahmed Salah (Analysis & Reporting Lead)**
+**Ahmed Salah**
 
 * Conduct SWOT analysis
 * Develop Business Model Canvas (PDF)
@@ -57,18 +57,18 @@
 * Collect and analyze user feedback
 * Prepare presentation slides
 
-**Abdulkhaleq Mahmoud (Research & Forms Lead)**
+**Abdulkhaleq Mahmoud**
 
 * Design Patient Intake Form (Regular)
 * Design Doctor Form
 * Draft interview questions script
 * Develop medium-fidelity Community Engagement Page
 
-**Yasmin Hamada (Documentation & Recommendations Lead)**
+**Yasmin Hamada**
 
 * Write detailed use case documentation
 * Create meal planning templates (removed)
-* Prototype Recommendations Flow (medium fidelity)
+* Develop medium-fidelity Recommendations Flow
 
 ---
 

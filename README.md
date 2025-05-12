@@ -5,7 +5,7 @@ This project focuses on **UI/UX design** using **Figma & FigJam**. It includes *
 
 ## 👥 Team Members  
 - **👑 Gamal Megahed** *(Team Leader)* – Project Planning, 1 Persona, Features, 5 Use Cases, Start Page, Sign-in Page, Register Page, Forgot Password Page , Change Password Page, Healthy Restaurants Flow Pages,
--  , Community Share Flow Pages , Meal Recomendation Pages, Notifications Pages, System Design, Prototypin, Figma File Arrangment GitHub Repository & README  
+  , Community Share Flow Pages , Meal Recomendation Pages, Notifications Pages, System Design, Prototypin, Figma File Arrangment GitHub Repository & README  
 - **Norhan Adel** – 2 Personas, Features, Home Page, Fill Data Flow Pages, Menue Page, Profile Page, Wearable Devices Page, Prototyping, Some Components  
 - **Ahmed Salah** – SWOT Analysis, BMC, Blood Sugar Logging & Tracking Page, Community Engagement & Sharing Page (WireFrame), Icons, Gathering Feedback, Presentation
 - **Abdulkhaleq Mahmoud** – Regular Form, Doctor Form, Interview Questions, Community Engagement & Sharing Page (Meduim Fadility)
